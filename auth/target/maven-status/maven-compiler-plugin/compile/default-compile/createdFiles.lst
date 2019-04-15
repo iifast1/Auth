@@ -1,0 +1,13 @@
+com\hellokoding\auth\repository\UserRepository.class
+com\hellokoding\auth\web\UserController.class
+com\hellokoding\auth\repository\RoleRepository.class
+com\hellokoding\auth\service\UserServiceImpl.class
+com\hellokoding\auth\model\User.class
+com\hellokoding\auth\service\SecurityServiceImpl.class
+com\hellokoding\auth\WebSecurityConfig.class
+com\hellokoding\auth\validator\UserValidator.class
+com\hellokoding\auth\service\SecurityService.class
+com\hellokoding\auth\WebApplication.class
+com\hellokoding\auth\service\UserDetailsServiceImpl.class
+com\hellokoding\auth\service\UserService.class
+com\hellokoding\auth\model\Role.class
